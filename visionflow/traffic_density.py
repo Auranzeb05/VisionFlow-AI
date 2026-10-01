@@ -1,5 +1,4 @@
 class TrafficDensity:
-
     def calculate(self, vehicle_count):
 
         if vehicle_count < 10:
